@@ -1,0 +1,6 @@
+[package]
+name = "web_srvr"
+version = "0.1.0"
+authors = ["kzzt <kevinpaulvaughan@gmail.com>"]
+
+[dependencies]
